@@ -1,4 +1,4 @@
-# Car Rush 2D Game
+# Car Rush 2D Game - Caffeine AI Integration 
 
 ## Overview
 Car Rush is a 2D web game where players control a CSS-rendered car on an infinitely extending zig-zag road to collect coins and increase their score. The game requires Internet Identity authentication and features ICP and BOOM DAO branding.
